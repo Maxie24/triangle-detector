@@ -11,10 +11,12 @@ button{
 h1{
   color: crimson;
   text-indent:470px;
+  text-decoration-color: white;
 }
 h2{
   color: magenta;
   text-indent: 120px;
+  text-decoration-style: wavy;
 }
 .tri2{
   float: center;
@@ -22,6 +24,7 @@ h2{
 }
 .butt{
   text-indent: 520px;
+  text-decoration-style: wavy;
 }
 .quest{
   text-indent: 90px;
