@@ -27,6 +27,9 @@ Output: Equilateral triangle
 Input: num1=6, num2=9, num3=6
 Output: Scalene triangle}
 
+## Link to the live site
+https://maxie24.github.io/triangle-detector/
+
 ## Technologies Used
 {Edited using HTML
 Styled using CSS and functions typed in using Javascript}
