@@ -1,16 +1,12 @@
 # {TRIANGLE DETECTOR}
 #### {The web prompts a user to input dimensions and the site alerts them on the type of triangle it is having met the condition}, {Date of current version}
-<<<<<<< HEAD
 #### By **{Max Maina  Abigail Wambui}**
-=======
-#### By **{Max Maina,  Abigail Wambui}**
->>>>>>> 9f9670bc6e11eee80fc899f2150e7749f637aa24
 ## Description
 {A triangle detector is basically a programme that enumerates values an output information following the basic concepts and elements
   of a triangle like, a triangle has 3 sides, the sum of two sides of a triangle is larger than one and so on.
   ## Setup/Installation Requirements
   Run the commands to use this project
-  
+
 * git clone https://github.com/Maxie24/triangle-detector.git
 * cd triangle-detector
 * atom . (If you are using atom as your text editor
@@ -19,10 +15,10 @@
 {You would want to change some few things but keep practicing on the JavaScript concepts}
 
 ## Behaiour Driven Development
-{Input a: 
+{Input a:
 Output:Please enter a valid dimension
 
-Input: num1=11, num2=23, num3=25 
+Input: num1=11, num2=23, num3=25
 Output: Its not a triangle
 
 Input: num1=8, num2=8, num3=8
