@@ -18,6 +18,6 @@ else if(pass(num1,num2,num3) && num1!==num2!==num3){
 	alert("Scalene Triangle")
 }
 else {
-	alert ("!!! Not a Triangle !!!")
+	alert ("!!! Cant do such man its not a Triangle !!!")
 };
 }

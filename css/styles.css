@@ -10,18 +10,28 @@ button{
 
 h1{
   color: crimson;
-  text-indent:450px;
+  text-indent:470px;
 }
 h2{
-  color: skyblue;
-  text-indent: 399px;
+  color: magenta;
+  text-indent: 120px;
 }
 .tri2{
   float: center;
   text-indent: 500px
 }
 .butt{
-  text-indent: 500px;
+  text-indent: 520px;
+}
+.quest{
+  text-indent: 90px;
+  float: center;
+  border: 9px;
+  border-top: solid magenta;
+  border-bottom: solid magenta;
+  border-left: solid magenta;
+  border-right: solid magenta;
+  color: black;
 }
 body{
   background-image:url(/home/maxie/Documents/triangle-detector/images/bac1.gif);
