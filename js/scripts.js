@@ -1,3 +1,4 @@
+function triangleDetector(){
 var num1 = parseInt(prompt("Enter the first dimension!"));
 var num2 = parseInt(prompt("Enter the second dimension!"));
 var num3 = parseInt(prompt("Enter the third dimension!"));
@@ -18,4 +19,5 @@ else if(pass(num1,num2,num3) && num1!==num2!==num3){
 }
 else {
 	alert ("!!! Not a Triangle !!!")
+};
 }

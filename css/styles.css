@@ -1,0 +1,20 @@
+button{
+  background-color: #04041C;
+  text-align: center;
+  color: cyan;
+  height: 5vh;
+  font-style: oblique;
+  display: inline-flex;
+  padding: 20px 50px;
+}
+
+h1{
+  color: crimson;
+  text-indent: 250px;
+}
+.tri2{
+  float: center;
+}
+body{
+  background-image:url(/home/maxie/Documents/triangle-detector/images/bac1.gif);
+}
