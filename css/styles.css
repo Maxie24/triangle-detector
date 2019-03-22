@@ -10,14 +10,18 @@ button{
 
 h1{
   color: crimson;
-  text-indent: 350px;
+  text-indent:450px;
 }
 h2{
   color: skyblue;
-  text-indent: 295px;
+  text-indent: 399px;
 }
 .tri2{
   float: center;
+  text-indent: 500px
+}
+.butt{
+  text-indent: 500px;
 }
 body{
   background-image:url(/home/maxie/Documents/triangle-detector/images/bac1.gif);
