@@ -1,6 +1,10 @@
 # {TRIANGLE DETECTOR}
 #### {The web prompts a user to input dimensions and the site alerts them on the type of triangle it is having met the condition}, {Date of current version}
+<<<<<<< HEAD
 #### By **{Max Maina  Abigail Wambui}**
+=======
+#### By **{Max Maina,  Abigail Wambui}**
+>>>>>>> 9f9670bc6e11eee80fc899f2150e7749f637aa24
 ## Description
 {A triangle detector is basically a programme that enumerates values an output information following the basic concepts and elements
   of a triangle like, a triangle has 3 sides, the sum of two sides of a triangle is larger than one and so on.
