@@ -14,13 +14,9 @@ h1{
   text-decoration-color: white;
 }
 h3{
-  color: gold;
+  color: black;
   text-indent: 200px;
   text-decoration-style: wavy;
-}
-.tri2{
-  float: center;
-  text-indent: 500px
 }
 .butt{
   text-indent: 510px;
@@ -32,6 +28,6 @@ h3{
   color: black;
 }
 html{
-  background-image: url(https://66.media.tumblr.com/7f5183e57b27f8ef2e1be43161adc57e/tumblr_pn9iwkP6kT1txe8seo1_500.gif);
+  background-image: url(https://cdn.dribbble.com/users/948461/screenshots/3872762/cell_animation_aftereffects.gif);
   background-attachment: fixed;
 }
